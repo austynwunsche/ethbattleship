@@ -4,7 +4,10 @@ Battleship on the Ethereum blockchain
 
 Demo (Rinkeby, Ropsten): [https://eth-battleship/](https://eth-battleship.github.io/) 
 
-This is just a demo, my code was working but since updating App.js it will no longer migrate and run. I appologize. For testing purposes please run .sol files in Remix.
+### Development Test
+Clone repository
+
+Install yarn 
 
 
 
