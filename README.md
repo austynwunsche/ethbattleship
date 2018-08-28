@@ -2,7 +2,7 @@
 ### ConsenSys Dev Program 2018
 Battleship on the Ethereum blockchain
 
-Demo (Rinkeby, Ropsten): [https://eth-battleship/](https://eth-battleship.github.io/)
+Demo (Rinkeby, Ropsten): [https://eth-battleship/](https://eth-battleship.github.io/) This is just a demo, my code was working but since updating App.js it will no longer migrate and run. I appologize.
 
 This is my implementation of the game Battleship on the Ethereum blockchain.
 It is to be played by 2 players (i.e. 2 accounts) with as many people as you want watching the game progress.
