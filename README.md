@@ -42,5 +42,3 @@ truffle test
 ### Game guide
 
 Rules: [https://en.wikipedia.org/wiki/Battleship_(game)](https://en.wikipedia.org/wiki/Battleship_(game))
-  
-Demo (Rinkeby, Ropsten): [https://eth-battleship/](https://eth-battleship.github.io/) 
