@@ -5,6 +5,7 @@ Battleship on the Ethereum blockchain, it is to be played by 2 players (i.e. 2 a
 
 ### Development Test
 * Download / Clone Repository
+* Unzip nm1.zip nm2.zip and nm3.zip
 * Install [Metamask](https://metamask.io/) and connect to Ropsten or Rinkeby testnets
 * Enjoy
 
