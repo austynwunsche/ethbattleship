@@ -16,10 +16,16 @@ yarn
 
 Install Truffle
 ```
-npm install truffle -g
+npm install -g truffle
 ```
 Run your local private test RPC with [Ganache](https://truffleframework.com/ganache)
 
+```
+npm install truffle-hdwallet-provider --save
+```
+```
+truffle compile
+```
 ```
 truffle develop
 ```
